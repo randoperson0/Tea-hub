@@ -1,0 +1,2 @@
+--loadstring!
+loadstring(game:httpget(('https://raw.githubusercontent.com/randoperson0/Tea-hub/main/Tea-Hub%20V3.1%20BETA'),true))()
